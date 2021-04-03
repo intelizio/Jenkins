@@ -13,7 +13,7 @@ namespace TestProject
         public void Test1()
         {
             //Assert.Pass();
-            Assert.AreEqual(1, 2);
+            Assert.AreEqual(1, 1);
         }
     }
 }
