@@ -11,7 +11,6 @@ namespace JenkinsMvc.Controllers
 {
     public class HomeController : Controller
     {
-    as
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
